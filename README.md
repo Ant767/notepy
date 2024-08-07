@@ -1,4 +1,4 @@
-# notepadpy
+# NotePy
 
 A Windows Notepad Recreation In Python
 
