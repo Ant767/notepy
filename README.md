@@ -10,4 +10,6 @@ This is NOT a recreation of the Windows 11 notepad, if you're looking for a recr
 
 ![alt text](image-1.png)
 
+Btw this also includes the .LOG thing in notepad, thats how much i care about the pointless shit :3
+
 ## Made by Trashy <3
